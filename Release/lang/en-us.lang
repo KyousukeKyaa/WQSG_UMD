@@ -1,4 +1,4 @@
-# English
+﻿# English
 
 # =========== Iso Base =====================================================================
 
@@ -114,8 +114,12 @@
 20018=Expansion Success
 20019=Expansion Failed
 20020=Output path...
-20021=Choose to replace the file...
+20021=Choose the replace file...
 20022=Up
 20023=File Name
 20024=LBA
 20025=Size
+20026=Export File Table
+20027=File cannot be written
+20028=The file table has been exported"
+20029=File table export failed
